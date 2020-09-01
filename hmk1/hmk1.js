@@ -3,7 +3,7 @@
 // Upload a photo 
 var image = new Image(); 
 //image.setCrossOrigin ('anonymous');
-image.src  = 'image.jpg';
+image.src  = 'https://solajr.github.io/CSCE-646-Digital-image/hmk1/image.jpg';
 
 image.onload= function(){
     
