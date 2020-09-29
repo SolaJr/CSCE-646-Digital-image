@@ -23,7 +23,7 @@ Instructions - Just visit https://solajr.github.io/CSCE-646-Digital-image/hmk1/i
 ## Project 2 - 	Simple Vector to Raster Conversion and Antializing
 ✅
 
-Your program(s) should create at least one half-plane, one circle, a shape defined by a function in the form of f(x,y)<0. You can choose any color and any shape. We also want to see close-up images that demonstrate that the antialising is working. Example images are shown below.
+Your program(s) should create at least one half-plane, one circle, a shape defined by a function in the form of f(x,y)<0. You can choose any color and any shape. We also want to see close-up images that demonstrate that the antialising is working. And as a fun little trick; I also made it so if you refresh the page, you can get a brand new color pallet for the Triangles! Their is a 1 out of 10000000000000000 chance you will make the red circles blue. Try your odds at luck!! 
 
 Give it at try! 
 Tool used - WebGL ( Javascript ) 
