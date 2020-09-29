@@ -1,5 +1,7 @@
 # Digital Image Open GL / Web GL practice  
-Sola's Hmk 
+Some Digital Image Coding Projects on my journey to learn Web and Open Gl!
+
+✅ - Complete ⌛ - Not online yet 
 ## Project 1 - Create-Display-Read & Write color images
 
 ### Part 1 - Make a program that can read & display an PPM image
@@ -19,7 +21,7 @@ Folder Name - Hmk 1
 Instructions - Just visit https://solajr.github.io/CSCE-646-Digital-image/hmk1/index or load it yourself. 
 
 ## Project 2 - 	Simple Vector to Raster Conversion and Antializing
-⌛
+✅
 
 Your program(s) should create at least one half-plane, one circle, a shape defined by a function in the form of f(x,y)<0. You can choose any color and any shape. We also want to see close-up images that demonstrate that the antialising is working. Example images are shown below.
 
