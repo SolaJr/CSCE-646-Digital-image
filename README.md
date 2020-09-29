@@ -14,7 +14,7 @@ Folder Name - OpenGL - Procedure
 Instructions - Run the file titled Hmk1.cpp. 
 
 ### Extra credit - I made the program also work in WebGL 
-Tool used - WebGL ( Javascript 
+Tool used - WebGL ( Javascript )
 Folder Name - Hmk 1 
 Instructions - Just visit https://solajr.github.io/CSCE-646-Digital-image/hmk1/index or load it yourself. 
 
@@ -23,7 +23,9 @@ Instructions - Just visit https://solajr.github.io/CSCE-646-Digital-image/hmk1/i
 
 Your program(s) should create at least one half-plane, one circle, a shape defined by a function in the form of f(x,y)<0. You can choose any color and any shape. We also want to see close-up images that demonstrate that the antialising is working. Example images are shown below.
 
-For me, I am going to try to draw a line mainly 
+Give it at try! 
+Tool used - WebGL ( Javascript ) 
+https://solajr.github.io/CSCE-646-Digital-image/WebGL-Hmk2/index.html
 
 ## Project 3 -Complex Vector to Raster Conversion 
 ⌛
