@@ -21,7 +21,7 @@ Folder Name - Hmk 1
 Instructions - Just visit https://solajr.github.io/CSCE-646-Digital-image/hmk1/index or load it yourself. 
 
 ## Project 2 - 	Simple Vector to Raster Conversion and Antializing
-✅
+
 
 Your program(s) should create at least one half-plane, one circle, a shape defined by a function in the form of f(x,y)<0. You can choose any color and any shape. We also want to see close-up images that demonstrate that the antialising is working. And as a fun little trick; I also made it so if you refresh the page, you can get a brand new color pallet for the Triangles! Their is a 1 out of 10000000000000000 chance you will make the red circles blue. Try your odds at luck!! 
 
@@ -30,10 +30,13 @@ Tool used - WebGL ( Javascript )
 https://solajr.github.io/CSCE-646-Digital-image/WebGL-Hmk2/index.html
 
 ## Project 3 -Complex Vector to Raster Conversion 
-⌛
+✅
 
-Your program(s) should create at least one convex, one star shape, one blobby shape and one shaded shape. In addition, create a height field image defined by a function in the form of y=f(x). You can choose any color and any shape. We also want to see close-up images that demonstrate that the antialising is working. 
+Your program(s) should create at least one convex, one star shape, one blobby shape and one shaded shape. In addition, create a height field image defined by a function in the form of y=f(x). You can choose any color and any shape. We also want to see close-up images that demonstrate that the antialising is working. My personal goal was to limit the number of files used on this one to JUST 1 SINGLE HTML FILE! 😲 
 
+Give it a try! 
+Tool used - WebGL ( Javascript / html ) 
+https://solajr.github.io/CSCE-646-Digital-image/WebGL-Hmk3/index.html
 ## Project 4 -Image Manipulations
 ⌛
 
